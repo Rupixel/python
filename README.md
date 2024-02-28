@@ -14,7 +14,7 @@ Hi. &nbsp;👋🏽 &nbsp;👋 &nbsp;**We are happy you are here.**&nbsp; 🎉&nb
 
 <br>
 
-**`exercism/Python`** is one of many programming language tracks on [exercism(dot)org][exercism-website].
+**`exercism/Python`** is one of the  programming language that tracks on [exercism(dot)org][exercism-website].
 This repo holds all the instructions, tests, code, & support files for Python _exercises_ currently under development or implemented & available for students.
 
 🌟 &nbsp;&nbsp;Track exercises support Python `3.7` - `3.11.5`.
